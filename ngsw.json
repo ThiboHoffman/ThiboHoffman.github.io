@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1590063711834,
+  "timestamp": 1590064857223,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -43,8 +43,8 @@
     {
       "name": "coWrite",
       "patterns": [
-        "https:\\/\\/localhost:5001\\/api\\/Stories\\/[^/]*",
-        "https:\\/\\/localhost:5001\\/api\\/Author\\/.*"
+        "https:\\/\\/cowriteapi20200517021601\\.azurewebsites\\.net\\/api\\/Stories\\/[^/]*",
+        "https:\\/\\/cowriteapi20200517021601\\.azurewebsites\\.net\\/api\\/Author\\/.*"
       ],
       "strategy": "freshness",
       "maxSize": 50,
